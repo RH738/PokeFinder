@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/Rob738/PokeFinder/issues"
   },
-  "homepage": "https://github.com/Rob738/PokeFinder#readme"
+  "homepage": "https://github.com/Rob738/PokeFinder#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "jade": "^1.11.0"
+  }
 }
