@@ -1,0 +1,22 @@
+{
+  "name": "pokefinder",
+  "version": "1.0.0",
+  "description": "this webpage will allow users to share the location of pokemon in Pokemon Go",
+  "main": "app.js",
+  "scripts": {
+    "test": "lul no"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rob738/PokeFinder.git"
+  },
+  "keywords": [
+    "xD"
+  ],
+  "author": "Rob",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rob738/PokeFinder/issues"
+  },
+  "homepage": "https://github.com/Rob738/PokeFinder#readme"
+}
